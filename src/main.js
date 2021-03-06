@@ -56,7 +56,7 @@ function calcX1_Root(a, b, delta){
    }
 
    var x1 = ((-b) + Math.sqrt(delta)) / (2 * a);
-   return x1;
+   return x1.toFixed(2);
    
 }
 
@@ -67,5 +67,5 @@ function calcX2_Root(a, b, delta){
    }
 
    var x2 = ((-b) - Math.sqrt(delta)) / (2 * a);
-   return x2;
+   return x2.toFixed(2);
 }
