@@ -1,2 +1,2 @@
 # Funcao-Quadratica
-Calculadora de função do segundo grau
+Calculadora de função do segundo grau.
